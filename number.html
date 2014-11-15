@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<meta charset="utf-8">
+<body>
+
+<P>
+AngularJS 数字
+</P>
+ 
+<div ng-app="" ng-init="quantity=1;cost=5">
+<p>总价： {{ quantity * cost }}</p>
+<p>一个数字 : {{ 5 + 5 }}</p>
+<p>总价： <span ng-bind="quantity * cost"></span></p>
+
+</div>
+
+<!-- 字符串-->
+<!-- 
+<div ng-app="" ng-init="firstName='John';lastName='Doe'">
+<p>姓名: {{ firstName + " " + lastName }}</p>
+-->
+
+
+<script src="js/angular.min.js"></script>
+
+</body>
+</html>
+			
