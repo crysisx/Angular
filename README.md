@@ -6,7 +6,7 @@
 - AngularJS 是一个 JavaScript 框架。它是一个以 JavaScript 编写的库。
 - AngularJS 是以一个 JavaScript 文件形式发布的，可通过 script 标签添加到网页中.
 
------------------
+---
 
 ###ng-app 指令
 - ng-app 指令定义了 AngularJS 应用程序的 根元素。
@@ -20,10 +20,9 @@
 
 
 ###ng-model 指令
-- ng-model 指令 绑定 HTML 元素 到应用程序数据。
+####ng-model 指令 绑定 HTML 元素 到应用程序数据。
 
 ng-model 指令也可以：
-
 - 为应用程序数据提供类型验证（number、email、required）。
 - 为应用程序数据提供状态（invalid、dirty、touched、error）。
 - 为 HTML 元素提供 CSS 类。
