@@ -1,7 +1,7 @@
 #Angular
 =======
 
-###Angular test
+###Angular 介绍
 - AngularJS 是一个 JavaScript 框架
 - AngularJS 是一个 JavaScript 框架。它是一个以 JavaScript 编写的库。
 - AngularJS 是以一个 JavaScript 文件形式发布的，可通过 script 标签添加到网页中.
